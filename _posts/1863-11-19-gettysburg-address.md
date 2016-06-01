@@ -3,9 +3,12 @@ layout: post
 cover: false
 title: Gettysburg Address
 date:   1863-11-19 10:18:00
-tags: fiction
+tags: a
 subclass: 'post tag-fiction'
 categories: 'casper'
+navigation: True
+logo: 'assets/images/ghost.png'
+cover: 'assets/images/cover1.jpg'
 ---
 
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
@@ -17,3 +20,5 @@ But, in a larger sense, we can not dedicate-we can not consecrate-we can not hal
 By **Abraham Lincoln**
 
 The 16th president of the USA until he was assassinated in April of 1963. He led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
+
+
